@@ -30,7 +30,7 @@ This website provides comprehensive information and interactive tools to promote
 - **Hosting**: GitHub Pages
 
   
-🧪 Features in Detail
+## 🧪 Features in Detail
 
 🔬 Prohibited Substances
 Categorized list of banned substances and methods
@@ -39,7 +39,7 @@ Search and filter capabilities
 
 Based on the latest WADA Prohibited List
 
-📜 Rules & Regulations
+## 📜 Rules & Regulations
 Summary of WADA Code
 
 Athlete responsibilities and testing procedures
@@ -48,16 +48,23 @@ Explanation of TUEs (Therapeutic Use Exemptions)
 
 Sanctions and penalties
 
-🧠 Quiz Section
+## 🧠 Quiz Section
 Multiple choice questions on doping facts and rules
 
 Instant feedback and scoring
 
 Great for students, athletes, and awareness programs
 
-📖 Real-Time Stories
+## 📖 Real-Time Stories
 Case studies of real athletes who faced consequences for doping
 
 Stories of athletes who advocated for clean sport
 
 Educational takeaways from each case
+
+## 👥 Contributors 
+Arpita Mali 
+Harshada Patil 
+Jakiya Kazi 
+Sakshi Kulkarni
+
